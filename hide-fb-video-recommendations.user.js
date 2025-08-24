@@ -6,6 +6,7 @@
 // @author       @maab-fw
 // @match        https://www.facebook.com/*
 // @grant        GM_addStyle
+// @license      MIT
 // ==/UserScript==
 
 (function () {
